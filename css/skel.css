@@ -247,3 +247,12 @@
 		.\-3u { margin-left: 25% }
 		.\-2u { margin-left: 16.6666666667% }
 		.\-1u { margin-left: 8.3333333333% }
+		
+		
+		.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
